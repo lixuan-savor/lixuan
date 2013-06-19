@@ -3,5 +3,3 @@ function aa{
 	alert(hello);
 	alert("end");
 }
-
-alert();
